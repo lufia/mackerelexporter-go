@@ -1,3 +1,5 @@
+**This repository was moved to https://github.com/mackerelio-labs/mackerelexporter-go.**
+
 # mackerelexporter-go
 
 This is OpenTelemetry Meter Exporter for [Mackerel](https://mackerel.io/).
